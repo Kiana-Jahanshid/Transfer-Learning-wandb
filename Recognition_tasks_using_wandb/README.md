@@ -47,13 +47,13 @@ Here is the loss and accuracy results : <br />
 
 
 
-## confusion matrix and loss-acc diagram for flowers recognition :
+## confusion matrix and loss-acc diagram for 5-animal recognition :
 <p float="center">
     <img src  = "assets/5animal_conf_mat.png" width=400 /> 
 </p>
 <br />
 
-## confusion matrix and loss-acc diagram for animals recognition :
+## confusion matrix and loss-acc diagram for 17-flowers recognition :
 <p float="center">
     <img src  = "assets/17flower_conf_mat.png" width=400 /> 
 </p>
