@@ -1,0 +1,9 @@
+numpy
+TeleBot
+pyTelegramBotAPI
+pytesseract
+telegram
+opencv-python
+tensorflow
+wandb
+scikit-learn
